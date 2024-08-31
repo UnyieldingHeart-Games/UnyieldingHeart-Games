@@ -3,8 +3,10 @@
 I will be posting stuff that you can use for your own games here! There will not be source code from my games, as I don't like to share them.
 The things I'll post here include:
 
-* Code for p5.js;
+* Code for [p5.js](p5Guide.md) (**_I'm still learning_**);
 * Project bases for Contruct 2 (you can also use on 3).
+
+If you use any of my stuff, make sure to credit me!
 
 <!--
 **UnyieldingHeart-Games/UnyieldingHeart-Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
