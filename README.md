@@ -20,7 +20,7 @@ If you wish to see and play my available games, you can find them on:
 
 ----
 
-> ### ```If you use any of my stuff, make sure to credit me!```
+> #### ```If you use any of my stuff, make sure to credit me!```
 
 <!--
 **UnyieldingHeart-Games/UnyieldingHeart-Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
