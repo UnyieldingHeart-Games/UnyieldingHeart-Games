@@ -16,7 +16,9 @@ I am just a 15 year old indie developer who enjoys making games. I began uploadi
 I don't just use Construct 2 and p5.js, though. I also use ```GDevelop``` for making games, and I make FNF mods, using the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) "Mods" folder.
 
 ## Where can I find your games?
-If you wish to see and play my available games, you can find them on [```Gamejolt```](https://gamejolt.com/@UnyieldingHeartGames_Official) and on [```Itch.io```](https://unyieldingheart-games.itch.io).
+If you wish to see and play my available games, you can find them on 
+
+![](gamejoltLogo.svg) [```Gamejolt```](https://gamejolt.com/@UnyieldingHeartGames_Official) and on [```Itch.io```](https://unyieldingheart-games.itch.io).
 
 <!--
 **UnyieldingHeart-Games/UnyieldingHeart-Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
