@@ -18,7 +18,9 @@ I don't just use Construct 2 and p5.js, though. I also use ```GDevelop``` for ma
 ## Where can I find your games?
 If you wish to see and play my available games, you can find them on 
 
-![](gamejoltLogo.svg) [```Gamejolt```](https://gamejolt.com/@UnyieldingHeartGames_Official) and on [```Itch.io```](https://unyieldingheart-games.itch.io).
+![](gamejoltLogo.svg) [```Gamejolt```](https://gamejolt.com/@UnyieldingHeartGames_Official) and on 
+
+![](Itch_io.png)[```Itch.io```](https://unyieldingheart-games.itch.io).
 
 <!--
 **UnyieldingHeart-Games/UnyieldingHeart-Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
