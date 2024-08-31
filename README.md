@@ -9,7 +9,7 @@ I will be posting stuff that you can use for your own games here! The things I'l
 ----
 
 ## Introduction
-I am just a 15 year old indie developer who enjoys making games. I began uploading my games back in 2019, on Gamejolt. I won't be uploading source code of my games, as I don't like sharing them.
+I am just a 15 year old indie developer who enjoys making games. I began uploading my games back in 2019, on Gamejolt. I won't be uploading source code of _my own games_, as I don't like sharing them.
 
 I don't just use Construct 2 and p5.js, though. I also use ```GDevelop``` for making games, and I make FNF mods, using the [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) "Mods" folder.
 
