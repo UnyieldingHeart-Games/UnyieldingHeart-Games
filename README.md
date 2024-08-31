@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome!
+
+I will be posting stuff that you can use for your own games here! There will not be source code from my games, as I don't like to share them.
 
 <!--
 **UnyieldingHeart-Games/UnyieldingHeart-Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
