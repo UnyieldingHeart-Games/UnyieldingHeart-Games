@@ -3,7 +3,7 @@
 I will be posting stuff that you can use for your own games here! There will not be source code from my games, as I don't like to share them.
 The things I'll post here include:
 
-* Code for p5js;
+* Code for p5.js;
 * Project bases for Contruct 2 (you can also use on 3).
 
 <!--
